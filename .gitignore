@@ -1,0 +1,18 @@
+# Data
+**/users.db
+
+# Temporary
+tmp/
+
+# Environments
+flask
+venv/
+env/
+.env
+.venv
+
+# Caches
+**/__pycache__/
+
+# Settings
+.vscode/
